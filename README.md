@@ -11,4 +11,6 @@ The difficulty level will decide the amount of attempts you will have to guess t
 3. Keep entering your guess into the program. Hints will be there to guide you.
 
 
-More functionality will be added in the future. 
+
+
+More functionality to be added in the future. 
